@@ -1,0 +1,15 @@
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\bin\Debug\net6.0\Д.З. Задача 66.exe
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\bin\Debug\net6.0\Д.З. Задача 66.deps.json
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\bin\Debug\net6.0\Д.З. Задача 66.runtimeconfig.json
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\bin\Debug\net6.0\Д.З. Задача 66.dll
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\bin\Debug\net6.0\Д.З. Задача 66.pdb
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\obj\Debug\net6.0\Д.З. Задача 66.csproj.AssemblyReference.cache
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\obj\Debug\net6.0\Д.З. Задача 66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\obj\Debug\net6.0\Д.З. Задача 66.AssemblyInfoInputs.cache
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\obj\Debug\net6.0\Д.З. Задача 66.AssemblyInfo.cs
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\obj\Debug\net6.0\Д.З. Задача 66.csproj.CoreCompileInputs.cache
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\obj\Debug\net6.0\Д.З. Задача 66.dll
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\obj\Debug\net6.0\refint\Д.З. Задача 66.dll
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\obj\Debug\net6.0\Д.З. Задача 66.pdb
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\obj\Debug\net6.0\Д.З. Задача 66.genruntimeconfig.cache
+C:\Моя Учёба\Програмирование\Lesson9\Д.З. Задача 66\obj\Debug\net6.0\ref\Д.З. Задача 66.dll
