@@ -6,7 +6,7 @@
         /// </summary>
         /// <param name="comment"></param>
         /// <returns></returns>
-        static int GetDigit(string comment)
+        int GetDigit(string comment)
         {
             Console.WriteLine($"Введите {comment}:");
             //Ввод пользователя
@@ -26,7 +26,7 @@
         }
 
         //Сумма чисел в интервале от n до m
-        static int GetSumm(int n, int m)
+        int GetSumm(int n, int m)
         {
             int min = 0, max = 0;
             //Числа равны - нечего считать
@@ -49,7 +49,7 @@
         }
 
         //Рекурсия - расчет суммы между чисел
-        static int Summ(int current, int max, int summ = 0)
+        int Summ(int current, int max, int summ = 0)
         {
             if (current > max)
             {
@@ -60,12 +60,9 @@
             return Summ(current, max, summ);
         }
 
-        static void Main(string[] args)
-        {
             //Рекурсивный ввод числа n
             var n = GetDigit("первое число");
             //Рекурсивный ввод числа n
             var m = GetDigit("второе число");
 
             Console.WriteLine("Сумма натуральных чисел в интервале от {0} до {1} = {2}", n, m, GetSumm(n, m));
-  }
